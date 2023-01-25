@@ -5,6 +5,7 @@ import planets from '../data/planets';
 
 class SolarSystem extends React.Component {
   render() {
+
     return (
       <div className="planetas-completo">
         <Title headline="Planetas" />

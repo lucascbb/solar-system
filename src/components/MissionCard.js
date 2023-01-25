@@ -30,6 +30,7 @@ class MissioCard extends React.Component {
     );
   }
 }
+
 MissioCard.propTypes = {
   name: PropTypes.string.isRequired,
   year: PropTypes.string.isRequired,
